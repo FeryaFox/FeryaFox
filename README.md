@@ -1,4 +1,7 @@
-### Hi there 👋
+### Good morning, random passerby 👋
+
+It’s a bit empty here for now, but the lazy fox🦊 will soon fix🛠️ everything)
+
 
 <!--
 **FeryaFox/FeryaFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
