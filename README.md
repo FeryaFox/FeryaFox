@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -62,16 +62,20 @@ Sunday                   10 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 20 mins       █████████████████████████   99.11 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  2 hrs 21 mins       █████████████████████████   99.99 % 
+Unknown Editor           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+RE_Shiki2MAL             1 hr 15 mins        █████████████░░░░░░░░░░░░   53.32 % 
+feryafox                 1 hr 5 mins         ████████████░░░░░░░░░░░░░   46.68 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -90,5 +94,5 @@ GDScript                 1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FeryaFox/FeryaFox/master/assets/bar_graph.png)
 
 
- Last Updated on 01/03/2024 18:35:55 UTC
+ Last Updated on 02/03/2024 18:35:21 UTC
 <!--END_SECTION:waka-->
