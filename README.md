@@ -19,15 +19,13 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 8.1 kB Used in GitHub's Storage 
- > 
-> 🏆 9 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -94,5 +92,5 @@ GDScript                 1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FeryaFox/FeryaFox/master/assets/bar_graph.png)
 
 
- Last Updated on 02/03/2024 18:35:21 UTC
+ Last Updated on 03/03/2024 18:36:09 UTC
 <!--END_SECTION:waka-->
